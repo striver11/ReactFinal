@@ -7,7 +7,7 @@ export let mycontext =createContext()
 const A1 = () => {
     let tech="salman sir react class"
   return (
-    <mycontext.Provider value={"salman sir react class"}>
+    <mycontext.Provider value={"salman sir teaching overcoming of props drilling using createContext hook"}>
         <B1/>
     </mycontext.Provider>
   )

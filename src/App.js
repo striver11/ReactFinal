@@ -39,7 +39,28 @@ function App() {
      <Route  path='/togglepara' element={<TogglePara/>}/>
      <Route  path='/covidtable' element={<FetchCovidStatewiseOneTable/>}/>
      <Route  path='/FetchApiAxiosUseEffect' element={<FetchApiAxiosUseEffectImagesKeyGitcardComponent/>}/>
-     <Route  path='/todo' element={<Todo/>}/>
+     <Route  path='/RegistrationForm' element={<RegistrationForm/>}/>
+     <Route  path='/FormOnSubmit' element={<FormOnSubmit/>}/>
+     <Route  path='/FetchOmdbApiSearchingOption' element={<FetchOmdbApiSearchingOption/>}/>
+     <Route  path='/ConditionalRendering' element={<ConditionalRendering/>}/>
+     <Route  path='/ConditionalRenderingUsingTernary' element={<ConditionalRenderingUsingTernary/>}/>
+     <Route  path='/ConditionalRenderingUsingANDORLogicalOperators' element={<ConditionalRenderingUsingANDORLogicalOperators/>}/>
+     <Route  path='/StateEx' element={<StateEx/>}/>
+     <Route  path='/ChangeEvent' element={<ChangeEvent/>}/>
+     <Route  path='/SubmitEvent' element={<SubmitEvent/>}/>
+     <Route  path='/Form' element={<Form/>}/>
+     <Route  path='/Todo' element={<Todo/>}/>
+     <Route  path='/Todo2' element={<Todo2/>}/>
+     <Route  path='/FetchApiAxiosUseEffect' element={<FetchApiAxiosUseEffect/>}/>
+     <Route  path='/FetchApiAxiosUseEffectImagesKey' element={<FetchApiAxiosUseEffectImagesKey/>}/>
+     <Route  path='/FetchApiAxiosUseEffectImagesKeySuperHeros' element={<FetchApiAxiosUseEffectImagesKeySuperHeros/>}/>
+     <Route  path='/FetchApiAxiosUseEffectKeyCovid' element={<FetchApiAxiosUseEffectKeyCovid/>}/>
+     <Route  path='/FetchCovidStatewise' element={<FetchCovidStatewise/>}/>
+     <Route  path='/FetchApiaxios' element={<FetchApiaxios/>}/>
+     <Route  path='/A' element={<A/>}/>
+     <Route  path='/A1' element={<A1/>}/>
+
+
     </Routes>
     
 

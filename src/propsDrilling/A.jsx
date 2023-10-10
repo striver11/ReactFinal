@@ -4,7 +4,7 @@ import { createContext } from 'react'
 
 
 const A = () => {
-    let tech="salman sir react class"
+    let tech="salman sir teaching props drilling"
   return (
     <B tech={tech}/>
   )
